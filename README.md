@@ -67,7 +67,7 @@ Unlike the original tutorial which used Google BigQuery, this implementation was
 - The low number of Lost/Inactive customers suggests that proactive retention strategies can still recover at-risk users.
 
 ---
-## 🚨 Recommendation: Urgent Retention Campaign
+## Recommendation: Urgent Retention Campaign
 
 A significant portion of customers fall into the **At Risk** and **Requires Attention** segments, representing a high potential for churn.
 
@@ -95,5 +95,5 @@ To address this, the business should implement an urgent retention strategy focu
 ---
 
 ## Acknowledgment
-This project was inspired by a YouTube tutorial, with modifications to use MySQL instead of BigQuery.
+This project was inspired by a YouTube tutorial ( @mochen862 ), with modifications to use MySQL instead of BigQuery.
 
