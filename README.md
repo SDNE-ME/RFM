@@ -86,14 +86,6 @@ To address this, the business should implement an urgent retention strategy focu
 
 ---
 
-## How to Run This Project
-1. Install MySQL Server
-2. Import the dataset into MySQL
-3. Open your SQL environment (e.g., MySQL Workbench)
-4. Run the SQL scripts in the `/queries` folder
-
----
-
 ## Acknowledgment
 This project was inspired by a YouTube tutorial ( @mochen862 ), with modifications to use MySQL instead of BigQuery.
 
